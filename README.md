@@ -1,9 +1,11 @@
 # Tomato sales
 ===========================
+
 Relay 42 Back end assignment Latest tomato sales.
 
 About
 -----
+
 Simple Spring webmvc web application that allow querying the latest tomato sales that happened on the biggest tomato market.
 
 Technologies
