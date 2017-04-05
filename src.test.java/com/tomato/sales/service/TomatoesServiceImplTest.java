@@ -3,14 +3,11 @@ package com.tomato.sales.service;
 import com.tomato.sales.domain.Tomato;
 import com.utils.TomatoSaleUtils;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.Month;
 import java.time.ZoneId;
@@ -68,11 +65,4 @@ public class TomatoesServiceImplTest {
     	
     }
     
-    @Test
-    public void testMockingUtilsClass(){
-    	
-    	
-    	
-    }
-
 }
