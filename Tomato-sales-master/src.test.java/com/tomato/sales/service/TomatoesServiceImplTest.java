@@ -67,5 +67,12 @@ public class TomatoesServiceImplTest {
         });
     	
     }
+    
+    @Test
+    public void testMockingUtilsClass(){
+    	
+    	
+    	
+    }
 
 }
